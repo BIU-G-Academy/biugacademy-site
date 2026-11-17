@@ -1,0 +1,4 @@
+/* Loaded only when JavaScript is off: hide the loading indicator. */
+.boot {
+  display: none;
+}
